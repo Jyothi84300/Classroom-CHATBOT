@@ -28,7 +28,7 @@ This *Student Information Chatbot*, created as part of an academic project, comb
 - Improved user interaction design for a smooth and responsive experience.
 
 🚀 *Ready for Collaboration!*
-Special thanks to my mentor *POONAM YADAV*, whose guidance and feedback played a key role in shaping this project. 🙌
+Special thanks to my mentor *Kavitha Rani*, whose guidance and feedback played a key role in shaping this project. 🙌
 
 I’m excited to connect with fellow developers and educators who are passionate about leveraging technology to enhance the student experience. Let’s innovate together! ✨
 
